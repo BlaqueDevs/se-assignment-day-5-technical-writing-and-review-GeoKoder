@@ -3,6 +3,7 @@
 # SE-DAY5-Technical-Writing
 ## 1. How can understanding your audience’s expertise level (tech experts vs. regular folks) shape the way you present technical information?
 -Knowing your audience helps you adjust the complexity of your explanations.
+
 -For tech experts, you can use precise technical terms and assume prior knowledge, while for non-technical users, you should simplify concepts and use analogies.
 
 ## 2. What are some strategies to tailor your content to different audience types?
