@@ -35,9 +35,12 @@
 
 ## 6. Can you provide examples of how simplifying terms (e.g., "start" instead of "initiate") improves comprehension?
 1.Technical: "Execute the command to initiate the process."
+
   Simplified: "Run this command to start the process."
 
+
 2.Technical: "Authenticate your credentials before accessing the system."
+
   Simplified: "Log in before using the system."
 
 ## 7. How can using examples and visuals help in explaining complex concepts more clearly?
